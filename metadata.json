@@ -1,0 +1,7 @@
+{
+  "name": "Get Out! Escape the Fortress",
+  "description": "A 2D cooperative multiplayer medieval board game for 1-4 players escaping a treacherous fortress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
